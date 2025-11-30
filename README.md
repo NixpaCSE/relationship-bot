@@ -1,6 +1,6 @@
 Relationship Bot for Cindy 💕
 
-A personalized AI chatbot designed to help Cindy feel secure and loved in her relationship with Nick. Built with React, Vite, and Google's Gemini API.
+A personalized AI chatbot designed to help Cindy feel secure and loved in her relationship. Built with React, Vite, and Open AI API.
 
 Features
 
